@@ -4,7 +4,5 @@ This list will be filled either manually from feedback recieved from chats or fr
 
 | Name of the guest/project | Status | Submitted via |
 |-----------|-------------|-------|
-| Althea |  Invited | TG |
-| Binance| Invited | TG |
-| Zaki | Invited | TG |
-| Tess | No answer | TG |
+| Test |  Invited | TG |
+
